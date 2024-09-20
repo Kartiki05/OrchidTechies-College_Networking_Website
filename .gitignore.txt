@@ -1,0 +1,10 @@
+# Ignore PHP files containing sensitive data
+/db_connect.php
+/admin_back.php
+/post_event.php
+
+# Ignore the 'vendor' folder (if using Composer for PHP dependencies)
+vendor/
+
+# Ignore the 'node_modules' folder (if using npm for JavaScript packages)
+node_modules/
